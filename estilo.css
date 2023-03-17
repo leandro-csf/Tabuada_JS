@@ -1,0 +1,22 @@
+body {
+    
+    text-align: center;
+}
+
+
+header{
+
+    margin-bottom: 30px;
+}
+section {
+    background-color: rgb(241, 255, 255);
+    padding: 100px;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    box-shadow: 5px 5px 5px;
+    margin: 30px;
+    border-style: outset;
+    border-color: black;
+    border-radius: 10px;
+}
